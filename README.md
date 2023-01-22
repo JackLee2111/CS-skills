@@ -1,2 +1,2 @@
 # CS-skills
-Some useful skills in computer science.
+Some practical skills in computer science.
